@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "description": "app项目模板",
+  "main": "index.js",
+  "authors": [
+    "fans_m@163.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
