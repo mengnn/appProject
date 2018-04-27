@@ -6,12 +6,15 @@
     "fans_m@163.com"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/mengnn/appProject",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
